@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Aluno\\Documents\\Joao v\\SaborDoBrasil\\SaborDoBrasil.csproj": {}
+    "C:\\Users\\Alunos\\Documents\\joao\\SaborDoBrasil\\SaborDoBrasil.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Aluno\\Documents\\Joao v\\SaborDoBrasil\\SaborDoBrasil.csproj": {
+    "C:\\Users\\Alunos\\Documents\\joao\\SaborDoBrasil\\SaborDoBrasil.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Aluno\\Documents\\Joao v\\SaborDoBrasil\\SaborDoBrasil.csproj",
+        "projectUniqueName": "C:\\Users\\Alunos\\Documents\\joao\\SaborDoBrasil\\SaborDoBrasil.csproj",
         "projectName": "SaborDoBrasil",
-        "projectPath": "C:\\Users\\Aluno\\Documents\\Joao v\\SaborDoBrasil\\SaborDoBrasil.csproj",
-        "packagesPath": "C:\\Users\\Aluno\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Aluno\\Documents\\Joao v\\SaborDoBrasil\\obj\\",
+        "projectPath": "C:\\Users\\Alunos\\Documents\\joao\\SaborDoBrasil\\SaborDoBrasil.csproj",
+        "packagesPath": "C:\\Users\\Alunos\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Alunos\\Documents\\joao\\SaborDoBrasil\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Aluno\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\Alunos\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net8.0"
@@ -61,7 +61,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.401/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.411/PortableRuntimeIdentifierGraph.json"
         }
       }
     }

@@ -1,0 +1,33 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\Alunos\\Documents\\joao\\SaborDoBrasil\\wwwroot\\css\\style.css",
+      "PackagePath": "staticwebassets\\css\\style.css"
+    },
+    {
+      "Id": "C:\\Users\\Alunos\\Documents\\joao\\SaborDoBrasil\\wwwroot\\img\\logo_sabor_do_brasil.png",
+      "PackagePath": "staticwebassets\\img\\logo_sabor_do_brasil.png"
+    },
+    {
+      "Id": "C:\\Users\\Alunos\\Documents\\joao\\SaborDoBrasil\\wwwroot\\index.html",
+      "PackagePath": "staticwebassets\\index.html"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.SaborDoBrasil.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.SaborDoBrasil.props",
+      "PackagePath": "build\\SaborDoBrasil.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.SaborDoBrasil.props",
+      "PackagePath": "buildMultiTargeting\\SaborDoBrasil.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.SaborDoBrasil.props",
+      "PackagePath": "buildTransitive\\SaborDoBrasil.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
