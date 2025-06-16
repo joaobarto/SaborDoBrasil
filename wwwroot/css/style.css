@@ -89,3 +89,12 @@ body {
   padding: 10px 20px;
   border-radius: 5px;
 }
+.btn-laranja {
+  background-color: #ff8800;
+  color: #fff;
+  border: none;
+}
+.btn-laranja:hover {
+  background-color: #e67600;
+  color: #fff;
+}

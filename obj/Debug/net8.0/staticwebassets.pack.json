@@ -1,16 +1,88 @@
 {
   "Files": [
     {
-      "Id": "C:\\Users\\Alunos\\Documents\\joao\\SaborDoBrasil\\wwwroot\\css\\style.css",
+      "Id": "C:\\Users\\Aluno\\Documents\\Joao_v\\SaborDoBrasil\\wwwroot\\css\\style.css",
       "PackagePath": "staticwebassets\\css\\style.css"
     },
     {
-      "Id": "C:\\Users\\Alunos\\Documents\\joao\\SaborDoBrasil\\wwwroot\\img\\logo_sabor_do_brasil.png",
+      "Id": "C:\\Users\\Aluno\\Documents\\Joao_v\\SaborDoBrasil\\wwwroot\\img\\Globe.svg",
+      "PackagePath": "staticwebassets\\img\\Globe.svg"
+    },
+    {
+      "Id": "C:\\Users\\Aluno\\Documents\\Joao_v\\SaborDoBrasil\\wwwroot\\img\\Instagram.svg",
+      "PackagePath": "staticwebassets\\img\\Instagram.svg"
+    },
+    {
+      "Id": "C:\\Users\\Aluno\\Documents\\Joao_v\\SaborDoBrasil\\wwwroot\\img\\Twitter.svg",
+      "PackagePath": "staticwebassets\\img\\Twitter.svg"
+    },
+    {
+      "Id": "C:\\Users\\Aluno\\Documents\\Joao_v\\SaborDoBrasil\\wwwroot\\img\\Whatsapp.svg",
+      "PackagePath": "staticwebassets\\img\\Whatsapp.svg"
+    },
+    {
+      "Id": "C:\\Users\\Aluno\\Documents\\Joao_v\\SaborDoBrasil\\wwwroot\\img\\chat.svg",
+      "PackagePath": "staticwebassets\\img\\chat.svg"
+    },
+    {
+      "Id": "C:\\Users\\Aluno\\Documents\\Joao_v\\SaborDoBrasil\\wwwroot\\img\\flecha_baixo_cheia.svg",
+      "PackagePath": "staticwebassets\\img\\flecha_baixo_cheia.svg"
+    },
+    {
+      "Id": "C:\\Users\\Aluno\\Documents\\Joao_v\\SaborDoBrasil\\wwwroot\\img\\flecha_baixo_vazia.svg",
+      "PackagePath": "staticwebassets\\img\\flecha_baixo_vazia.svg"
+    },
+    {
+      "Id": "C:\\Users\\Aluno\\Documents\\Joao_v\\SaborDoBrasil\\wwwroot\\img\\flecha_cima_cheia.svg",
+      "PackagePath": "staticwebassets\\img\\flecha_cima_cheia.svg"
+    },
+    {
+      "Id": "C:\\Users\\Aluno\\Documents\\Joao_v\\SaborDoBrasil\\wwwroot\\img\\flecha_cima_vazia.svg",
+      "PackagePath": "staticwebassets\\img\\flecha_cima_vazia.svg"
+    },
+    {
+      "Id": "C:\\Users\\Aluno\\Documents\\Joao_v\\SaborDoBrasil\\wwwroot\\img\\lapis_editar.svg",
+      "PackagePath": "staticwebassets\\img\\lapis_editar.svg"
+    },
+    {
+      "Id": "C:\\Users\\Aluno\\Documents\\Joao_v\\SaborDoBrasil\\wwwroot\\img\\lixeira_deletar.svg",
+      "PackagePath": "staticwebassets\\img\\lixeira_deletar.svg"
+    },
+    {
+      "Id": "C:\\Users\\Aluno\\Documents\\Joao_v\\SaborDoBrasil\\wwwroot\\img\\logo_sabor_do_brasil.png",
       "PackagePath": "staticwebassets\\img\\logo_sabor_do_brasil.png"
     },
     {
-      "Id": "C:\\Users\\Alunos\\Documents\\joao\\SaborDoBrasil\\wwwroot\\index.html",
+      "Id": "C:\\Users\\Aluno\\Documents\\Joao_v\\SaborDoBrasil\\wwwroot\\img\\publicacao01.png",
+      "PackagePath": "staticwebassets\\img\\publicacao01.png"
+    },
+    {
+      "Id": "C:\\Users\\Aluno\\Documents\\Joao_v\\SaborDoBrasil\\wwwroot\\img\\publicacao02.png",
+      "PackagePath": "staticwebassets\\img\\publicacao02.png"
+    },
+    {
+      "Id": "C:\\Users\\Aluno\\Documents\\Joao_v\\SaborDoBrasil\\wwwroot\\img\\publicacao03.png",
+      "PackagePath": "staticwebassets\\img\\publicacao03.png"
+    },
+    {
+      "Id": "C:\\Users\\Aluno\\Documents\\Joao_v\\SaborDoBrasil\\wwwroot\\img\\usuario_01.jpg",
+      "PackagePath": "staticwebassets\\img\\usuario_01.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Aluno\\Documents\\Joao_v\\SaborDoBrasil\\wwwroot\\img\\usuario_02.jpg",
+      "PackagePath": "staticwebassets\\img\\usuario_02.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Aluno\\Documents\\Joao_v\\SaborDoBrasil\\wwwroot\\img\\usuario_03.jpg",
+      "PackagePath": "staticwebassets\\img\\usuario_03.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Aluno\\Documents\\Joao_v\\SaborDoBrasil\\wwwroot\\index.html",
       "PackagePath": "staticwebassets\\index.html"
+    },
+    {
+      "Id": "C:\\Users\\Aluno\\Documents\\Joao_v\\SaborDoBrasil\\wwwroot\\js\\script.js",
+      "PackagePath": "staticwebassets\\js\\script.js"
     },
     {
       "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.SaborDoBrasil.Microsoft.AspNetCore.StaticWebAssets.props",

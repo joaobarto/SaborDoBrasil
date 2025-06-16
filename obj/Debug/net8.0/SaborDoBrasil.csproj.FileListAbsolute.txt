@@ -25,3 +25,105 @@ C:\Users\Alunos\Documents\joao\SaborDoBrasil\obj\Debug\net8.0\refint\SaborDoBras
 C:\Users\Alunos\Documents\joao\SaborDoBrasil\obj\Debug\net8.0\SaborDoBrasil.pdb
 C:\Users\Alunos\Documents\joao\SaborDoBrasil\obj\Debug\net8.0\SaborDoBrasil.genruntimeconfig.cache
 C:\Users\Alunos\Documents\joao\SaborDoBrasil\obj\Debug\net8.0\ref\SaborDoBrasil.dll
+C:\Users\Aluno\Documents\Joao v\SaborDoBrasil\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\Aluno\Documents\Joao v\SaborDoBrasil\bin\Debug\net8.0\appsettings.json
+C:\Users\Aluno\Documents\Joao v\SaborDoBrasil\bin\Debug\net8.0\SaborDoBrasil.staticwebassets.runtime.json
+C:\Users\Aluno\Documents\Joao v\SaborDoBrasil\bin\Debug\net8.0\SaborDoBrasil.exe
+C:\Users\Aluno\Documents\Joao v\SaborDoBrasil\bin\Debug\net8.0\SaborDoBrasil.deps.json
+C:\Users\Aluno\Documents\Joao v\SaborDoBrasil\bin\Debug\net8.0\SaborDoBrasil.runtimeconfig.json
+C:\Users\Aluno\Documents\Joao v\SaborDoBrasil\bin\Debug\net8.0\SaborDoBrasil.dll
+C:\Users\Aluno\Documents\Joao v\SaborDoBrasil\bin\Debug\net8.0\SaborDoBrasil.pdb
+C:\Users\Aluno\Documents\Joao v\SaborDoBrasil\obj\Debug\net8.0\SaborDoBrasil.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aluno\Documents\Joao v\SaborDoBrasil\obj\Debug\net8.0\SaborDoBrasil.AssemblyInfoInputs.cache
+C:\Users\Aluno\Documents\Joao v\SaborDoBrasil\obj\Debug\net8.0\SaborDoBrasil.AssemblyInfo.cs
+C:\Users\Aluno\Documents\Joao v\SaborDoBrasil\obj\Debug\net8.0\SaborDoBrasil.csproj.CoreCompileInputs.cache
+C:\Users\Aluno\Documents\Joao v\SaborDoBrasil\obj\Debug\net8.0\SaborDoBrasil.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Aluno\Documents\Joao v\SaborDoBrasil\obj\Debug\net8.0\SaborDoBrasil.sourcelink.json
+C:\Users\Aluno\Documents\Joao v\SaborDoBrasil\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\Aluno\Documents\Joao v\SaborDoBrasil\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\Aluno\Documents\Joao v\SaborDoBrasil\obj\Debug\net8.0\staticwebassets\msbuild.SaborDoBrasil.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Aluno\Documents\Joao v\SaborDoBrasil\obj\Debug\net8.0\staticwebassets\msbuild.build.SaborDoBrasil.props
+C:\Users\Aluno\Documents\Joao v\SaborDoBrasil\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.SaborDoBrasil.props
+C:\Users\Aluno\Documents\Joao v\SaborDoBrasil\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.SaborDoBrasil.props
+C:\Users\Aluno\Documents\Joao v\SaborDoBrasil\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\Aluno\Documents\Joao v\SaborDoBrasil\obj\Debug\net8.0\scopedcss\bundle\SaborDoBrasil.styles.css
+C:\Users\Aluno\Documents\Joao v\SaborDoBrasil\obj\Debug\net8.0\SaborDoBrasil.dll
+C:\Users\Aluno\Documents\Joao v\SaborDoBrasil\obj\Debug\net8.0\refint\SaborDoBrasil.dll
+C:\Users\Aluno\Documents\Joao v\SaborDoBrasil\obj\Debug\net8.0\SaborDoBrasil.pdb
+C:\Users\Aluno\Documents\Joao v\SaborDoBrasil\obj\Debug\net8.0\SaborDoBrasil.genruntimeconfig.cache
+C:\Users\Aluno\Documents\Joao v\SaborDoBrasil\obj\Debug\net8.0\ref\SaborDoBrasil.dll
+C:\Users\Aluno\Documents\Joao v\SaborDoBrasil\bin\Debug\net8.0\BouncyCastle.Cryptography.dll
+C:\Users\Aluno\Documents\Joao v\SaborDoBrasil\bin\Debug\net8.0\Dapper.dll
+C:\Users\Aluno\Documents\Joao v\SaborDoBrasil\bin\Debug\net8.0\Google.Protobuf.dll
+C:\Users\Aluno\Documents\Joao v\SaborDoBrasil\bin\Debug\net8.0\K4os.Compression.LZ4.dll
+C:\Users\Aluno\Documents\Joao v\SaborDoBrasil\bin\Debug\net8.0\K4os.Compression.LZ4.Streams.dll
+C:\Users\Aluno\Documents\Joao v\SaborDoBrasil\bin\Debug\net8.0\K4os.Hash.xxHash.dll
+C:\Users\Aluno\Documents\Joao v\SaborDoBrasil\bin\Debug\net8.0\MySql.Data.dll
+C:\Users\Aluno\Documents\Joao v\SaborDoBrasil\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Aluno\Documents\Joao v\SaborDoBrasil\bin\Debug\net8.0\System.IO.Pipelines.dll
+C:\Users\Aluno\Documents\Joao v\SaborDoBrasil\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Aluno\Documents\Joao v\SaborDoBrasil\bin\Debug\net8.0\System.Security.Permissions.dll
+C:\Users\Aluno\Documents\Joao v\SaborDoBrasil\bin\Debug\net8.0\System.Text.Encodings.Web.dll
+C:\Users\Aluno\Documents\Joao v\SaborDoBrasil\bin\Debug\net8.0\System.Text.Json.dll
+C:\Users\Aluno\Documents\Joao v\SaborDoBrasil\bin\Debug\net8.0\System.Windows.Extensions.dll
+C:\Users\Aluno\Documents\Joao v\SaborDoBrasil\bin\Debug\net8.0\ZstdSharp.dll
+C:\Users\Aluno\Documents\Joao v\SaborDoBrasil\bin\Debug\net8.0\runtimes\win-x64\native\comerr64.dll
+C:\Users\Aluno\Documents\Joao v\SaborDoBrasil\bin\Debug\net8.0\runtimes\win-x64\native\gssapi64.dll
+C:\Users\Aluno\Documents\Joao v\SaborDoBrasil\bin\Debug\net8.0\runtimes\win-x64\native\k5sprt64.dll
+C:\Users\Aluno\Documents\Joao v\SaborDoBrasil\bin\Debug\net8.0\runtimes\win-x64\native\krb5_64.dll
+C:\Users\Aluno\Documents\Joao v\SaborDoBrasil\bin\Debug\net8.0\runtimes\win-x64\native\krbcc64.dll
+C:\Users\Aluno\Documents\Joao v\SaborDoBrasil\bin\Debug\net8.0\runtimes\browser\lib\net8.0\System.Text.Encodings.Web.dll
+C:\Users\Aluno\Documents\Joao v\SaborDoBrasil\bin\Debug\net8.0\runtimes\win\lib\net8.0\System.Windows.Extensions.dll
+C:\Users\Aluno\Documents\Joao v\SaborDoBrasil\obj\Debug\net8.0\SaborDoBrasil.csproj.AssemblyReference.cache
+C:\Users\Aluno\Documents\Joao v\SaborDoBrasil\obj\Debug\net8.0\SaborDoB.657B690C.Up2Date
+C:\Users\Aluno\Documents\Joao_v\SaborDoBrasil\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\Aluno\Documents\Joao_v\SaborDoBrasil\bin\Debug\net8.0\appsettings.json
+C:\Users\Aluno\Documents\Joao_v\SaborDoBrasil\bin\Debug\net8.0\SaborDoBrasil.staticwebassets.runtime.json
+C:\Users\Aluno\Documents\Joao_v\SaborDoBrasil\bin\Debug\net8.0\SaborDoBrasil.exe
+C:\Users\Aluno\Documents\Joao_v\SaborDoBrasil\bin\Debug\net8.0\SaborDoBrasil.deps.json
+C:\Users\Aluno\Documents\Joao_v\SaborDoBrasil\bin\Debug\net8.0\SaborDoBrasil.runtimeconfig.json
+C:\Users\Aluno\Documents\Joao_v\SaborDoBrasil\bin\Debug\net8.0\SaborDoBrasil.dll
+C:\Users\Aluno\Documents\Joao_v\SaborDoBrasil\bin\Debug\net8.0\SaborDoBrasil.pdb
+C:\Users\Aluno\Documents\Joao_v\SaborDoBrasil\bin\Debug\net8.0\BouncyCastle.Cryptography.dll
+C:\Users\Aluno\Documents\Joao_v\SaborDoBrasil\bin\Debug\net8.0\Dapper.dll
+C:\Users\Aluno\Documents\Joao_v\SaborDoBrasil\bin\Debug\net8.0\Google.Protobuf.dll
+C:\Users\Aluno\Documents\Joao_v\SaborDoBrasil\bin\Debug\net8.0\K4os.Compression.LZ4.dll
+C:\Users\Aluno\Documents\Joao_v\SaborDoBrasil\bin\Debug\net8.0\K4os.Compression.LZ4.Streams.dll
+C:\Users\Aluno\Documents\Joao_v\SaborDoBrasil\bin\Debug\net8.0\K4os.Hash.xxHash.dll
+C:\Users\Aluno\Documents\Joao_v\SaborDoBrasil\bin\Debug\net8.0\MySql.Data.dll
+C:\Users\Aluno\Documents\Joao_v\SaborDoBrasil\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Aluno\Documents\Joao_v\SaborDoBrasil\bin\Debug\net8.0\System.IO.Pipelines.dll
+C:\Users\Aluno\Documents\Joao_v\SaborDoBrasil\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Aluno\Documents\Joao_v\SaborDoBrasil\bin\Debug\net8.0\System.Security.Permissions.dll
+C:\Users\Aluno\Documents\Joao_v\SaborDoBrasil\bin\Debug\net8.0\System.Text.Encodings.Web.dll
+C:\Users\Aluno\Documents\Joao_v\SaborDoBrasil\bin\Debug\net8.0\System.Text.Json.dll
+C:\Users\Aluno\Documents\Joao_v\SaborDoBrasil\bin\Debug\net8.0\System.Windows.Extensions.dll
+C:\Users\Aluno\Documents\Joao_v\SaborDoBrasil\bin\Debug\net8.0\ZstdSharp.dll
+C:\Users\Aluno\Documents\Joao_v\SaborDoBrasil\bin\Debug\net8.0\runtimes\win-x64\native\comerr64.dll
+C:\Users\Aluno\Documents\Joao_v\SaborDoBrasil\bin\Debug\net8.0\runtimes\win-x64\native\gssapi64.dll
+C:\Users\Aluno\Documents\Joao_v\SaborDoBrasil\bin\Debug\net8.0\runtimes\win-x64\native\k5sprt64.dll
+C:\Users\Aluno\Documents\Joao_v\SaborDoBrasil\bin\Debug\net8.0\runtimes\win-x64\native\krb5_64.dll
+C:\Users\Aluno\Documents\Joao_v\SaborDoBrasil\bin\Debug\net8.0\runtimes\win-x64\native\krbcc64.dll
+C:\Users\Aluno\Documents\Joao_v\SaborDoBrasil\bin\Debug\net8.0\runtimes\browser\lib\net8.0\System.Text.Encodings.Web.dll
+C:\Users\Aluno\Documents\Joao_v\SaborDoBrasil\bin\Debug\net8.0\runtimes\win\lib\net8.0\System.Windows.Extensions.dll
+C:\Users\Aluno\Documents\Joao_v\SaborDoBrasil\obj\Debug\net8.0\SaborDoBrasil.csproj.AssemblyReference.cache
+C:\Users\Aluno\Documents\Joao_v\SaborDoBrasil\obj\Debug\net8.0\SaborDoBrasil.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aluno\Documents\Joao_v\SaborDoBrasil\obj\Debug\net8.0\SaborDoBrasil.AssemblyInfoInputs.cache
+C:\Users\Aluno\Documents\Joao_v\SaborDoBrasil\obj\Debug\net8.0\SaborDoBrasil.AssemblyInfo.cs
+C:\Users\Aluno\Documents\Joao_v\SaborDoBrasil\obj\Debug\net8.0\SaborDoBrasil.csproj.CoreCompileInputs.cache
+C:\Users\Aluno\Documents\Joao_v\SaborDoBrasil\obj\Debug\net8.0\SaborDoBrasil.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Aluno\Documents\Joao_v\SaborDoBrasil\obj\Debug\net8.0\SaborDoBrasil.sourcelink.json
+C:\Users\Aluno\Documents\Joao_v\SaborDoBrasil\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\Aluno\Documents\Joao_v\SaborDoBrasil\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\Aluno\Documents\Joao_v\SaborDoBrasil\obj\Debug\net8.0\staticwebassets\msbuild.SaborDoBrasil.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Aluno\Documents\Joao_v\SaborDoBrasil\obj\Debug\net8.0\staticwebassets\msbuild.build.SaborDoBrasil.props
+C:\Users\Aluno\Documents\Joao_v\SaborDoBrasil\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.SaborDoBrasil.props
+C:\Users\Aluno\Documents\Joao_v\SaborDoBrasil\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.SaborDoBrasil.props
+C:\Users\Aluno\Documents\Joao_v\SaborDoBrasil\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\Aluno\Documents\Joao_v\SaborDoBrasil\obj\Debug\net8.0\scopedcss\bundle\SaborDoBrasil.styles.css
+C:\Users\Aluno\Documents\Joao_v\SaborDoBrasil\obj\Debug\net8.0\SaborDoB.657B690C.Up2Date
+C:\Users\Aluno\Documents\Joao_v\SaborDoBrasil\obj\Debug\net8.0\SaborDoBrasil.dll
+C:\Users\Aluno\Documents\Joao_v\SaborDoBrasil\obj\Debug\net8.0\refint\SaborDoBrasil.dll
+C:\Users\Aluno\Documents\Joao_v\SaborDoBrasil\obj\Debug\net8.0\SaborDoBrasil.pdb
+C:\Users\Aluno\Documents\Joao_v\SaborDoBrasil\obj\Debug\net8.0\SaborDoBrasil.genruntimeconfig.cache
+C:\Users\Aluno\Documents\Joao_v\SaborDoBrasil\obj\Debug\net8.0\ref\SaborDoBrasil.dll
